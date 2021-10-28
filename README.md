@@ -1,5 +1,3 @@
-![I am a student.](https://i.ibb.co/ZXynqPw/Free-Creative-Modern-Youtube-Channel-Art-Banner-PSD.jpg)
-
 <h1 align="center">Hi 👋, I'm Kaysarul Anas</h1>
 <h3 align="center">I am a student of North South University. I am doing my major in CSE. Right now i am on the verge of completing my graduation.</h3>
 
