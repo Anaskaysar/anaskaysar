@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kaysarul Anas</h1>
-<h3 align="center">I am a student of North South University. I am doing my major in CSE. Right now i am on the verge of completing my graduation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anaskaysar&label=Profile%20views&color=0e75b6&style=flat" alt="anaskaysar" /> </p>
 
