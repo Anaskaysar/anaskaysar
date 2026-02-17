@@ -42,8 +42,9 @@ A comprehensive full-stack solution for organizing job searches.
 
 ## 📊 GitHub Stats
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaskaysar&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaskaysar&layout=compact&theme=radical&cache_seconds=1800)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaskaysar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anaskaysar&layout=compact&theme=radical)
+
 
 
 ---
