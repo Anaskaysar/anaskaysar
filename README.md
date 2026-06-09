@@ -49,7 +49,7 @@ A two-stage decoupled framework solving three persistent failure modes in malari
 
 ### [SciRet](https://kaysarulanas.me) — Scientific Information Retrieval
 [![Demo](https://img.shields.io/badge/Live_Demo-kaysarulanas.me-0D1B2A?style=flat-square&logo=safari&logoColor=white)](https://kaysarulanas.me)
-[![arXiv](https://img.shields.io/badge/Preprint-arXiv_(in_prep)-B31B1B?style=flat-square)](https://arxiv.org)
+[![EMNLP](https://img.shields.io/badge/Submitted-EMNLP_2026_(Short_Paper)-purple?style=flat-square)](https://2026.emnlp.org)
 
 RAG-based pipeline for natural-language querying over scientific literature — chunking, embedding retrieval, and LLM-grounded answer generation with source attribution.
 
@@ -57,10 +57,10 @@ RAG-based pipeline for natural-language querying over scientific literature — 
 
 ---
 
-### RAG-IDS — Adversarially Robust Intrusion Detection *(active research)*
+### [Dependable Retrieval-Augmented Intrusion Detection Under Retrieval Poisoning and Prompt-Injection Attacks](https://github.com/anaskaysar) *(active research)*
 [![Target](https://img.shields.io/badge/Target-EMNLP_2026-purple?style=flat-square)](https://2026.emnlp.org)
 
-Multi-agent RAG architecture for network intrusion detection with adversarial robustness — trust-score filtering, semantic anomaly detection, and prompt sanitization. Addresses the security robustness gap in existing RAG-IDS taxonomies.
+Multi-agent RAG architecture for network intrusion detection robust against retrieval poisoning and prompt-injection attacks — trust-score filtering, semantic anomaly detection, and prompt sanitization. Targets the security robustness gap identified across existing RAG-IDS taxonomies.
 
 `Python` `RAG` `LLM Security` `Multi-Agent` `CICIDS2017`
 
