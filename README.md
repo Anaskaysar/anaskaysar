@@ -17,7 +17,7 @@ M.Sc. in Computational Sciences · Laurentian University, Canada · CGPA 9.10/10
 
 I build end-to-end ML systems — from watershed cell segmentation pipelines to RAG-based retrieval architectures — and ship them as production deployments. My work sits at the intersection of applied deep learning, NLP, and backend engineering.
 
-Currently pursuing research in **adversarially robust RAG pipelines for intrusion detection** (targeting EMNLP 2026) while preparing **MalariAI** for journal submission to Elsevier CMIG.
+Currently pursuing research in **adversarially robust RAG pipelines for intrusion detection** (targeting IEEE TDSC) while preparing **MalariAI** for journal submission to Elsevier CMIG.
 
 ---
 
