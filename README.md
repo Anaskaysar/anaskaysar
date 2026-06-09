@@ -47,7 +47,7 @@ A two-stage decoupled framework solving three persistent failure modes in malari
 
 ---
 
-### [SciRet](https://kaysarulanas.me) — Scientific Information Retrieval
+### [SciRet](https://github.com/Anaskaysar/SciRet) — Scientific Information Retrieval
 [![Demo](https://img.shields.io/badge/Live_Demo-kaysarulanas.me-0D1B2A?style=flat-square&logo=safari&logoColor=white)](https://kaysarulanas.me)
 [![EMNLP](https://img.shields.io/badge/Submitted-EMNLP_2026_(Short_Paper)-purple?style=flat-square)](https://2026.emnlp.org)
 
@@ -58,7 +58,7 @@ RAG-based pipeline for natural-language querying over scientific literature — 
 ---
 
 ### [Dependable Retrieval-Augmented Intrusion Detection Under Retrieval Poisoning and Prompt-Injection Attacks](https://github.com/anaskaysar) *(active research)*
-[![Target](https://img.shields.io/badge/Target-EMNLP_2026-purple?style=flat-square)](https://2026.emnlp.org)
+[![Target](https://img.shields.io/badge/Target-IEEE-TDSC-purple?style=flat-square)](https://www.computer.org/csdl/journal/tq)
 
 Multi-agent RAG architecture for network intrusion detection robust against retrieval poisoning and prompt-injection attacks — trust-score filtering, semantic anomaly detection, and prompt sanitization. Targets the security robustness gap identified across existing RAG-IDS taxonomies.
 
@@ -68,7 +68,7 @@ Multi-agent RAG architecture for network intrusion detection robust against retr
 
 ## 🛠️ Projects
 
-### [JobTrackerr](https://github.com/Anaskaysar/JobTrackerr-FullStack-React-Django) · [Live](https://jobtracker.kaysarulanas.me)
+### [JobTrackerr](https://github.com/Anaskaysar/JobTrackerr-FullStack-React-Django) · [Live](https://jobtackerr.com)
 Full-stack job application tracker — React (Vite) + Tailwind on Vercel · Django REST + Gunicorn + Nginx on AWS EC2 · JWT auth · Google OAuth · React Native mobile app
 
 ### [EncryptIQ](https://github.com/Anaskaysar/EncryptIQ-Conveys-Intelligence-And-Insight-Into-Encryption) · [Live](https://encryptiq.kaysarul.me)
