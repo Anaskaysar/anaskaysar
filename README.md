@@ -4,7 +4,7 @@
 
 **ML Researcher · Backend Engineer · Published Author**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaysarulanas.me-0D1B2A?style=flat-square&logo=safari&logoColor=white)](https://kaysarulanas.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-research.kaysarulanas.me-0D1B2A?style=flat-square&logo=safari&logoColor=white)](https://research.kaysarulanas.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaysarulanas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaysarulanas)
 [![Email](https://img.shields.io/badge/Email-kaysarulanas2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaysarulanas2@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Kaysarulanas-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Kaysarulanas)
